@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **FastAPI, MLops**
 
-- 📝 I regularly write articles on [https://letskt.tistory.com/](https://letskt.tistory.com/)
+- 📝 I regularly write articles on <!--[https://letskt.tistory.com/](https://letskt.tistory.com/)!-->
 
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **dnflwlq1752@naver.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">**dnflwlq1752@naver.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
