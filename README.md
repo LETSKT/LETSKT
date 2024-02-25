@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyungtae Min</h1>
 <h3 align="center">Aspiring backend developer from Korea</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **python**
 
 - 📝 I regularly write articles on <!--[https://letskt.tistory.com/](https://letskt.tistory.com/)!-->
 
