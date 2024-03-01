@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📝 I regularly write articles on <!--[https://letskt.tistory.com/](https://letskt.tistory.com/)!-->
+- 📝 I regularly write articles on **https://letskt.tistory.com/**
 
 - 💬 Ask me about **Django**
 
