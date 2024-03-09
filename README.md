@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📝 I regularly write articles on  
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Django**
 
