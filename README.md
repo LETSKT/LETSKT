@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on 
 
-- 💬 Ask me about **Django** 
+- 💬 Ask me about **Django**  
 
 - 📫 How to reach me **dnflwlq1752@naver.com**
 
